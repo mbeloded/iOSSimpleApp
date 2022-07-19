@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.1)
+  - Kingfisher (7.3.0)
+  - SimpleTwoWayBinding (0.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - SimpleTwoWayBinding
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - SimpleTwoWayBinding
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  Kingfisher: cdb1189a9223b1bc028816bd47c8b8101a58831c
+  SimpleTwoWayBinding: 728d751c25d9909ddf2ee76711ab4a8a71e00c69
+
+PODFILE CHECKSUM: 50cf3cf8ff706e149ee742abc732a80a15203c19
+
+COCOAPODS: 1.11.3
